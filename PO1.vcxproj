@@ -143,6 +143,7 @@
     <ClInclude Include="Barszcz.h" />
     <ClInclude Include="Czlowiek.h" />
     <ClInclude Include="Guarana.h" />
+    <ClInclude Include="KreatorSwiata.h" />
     <ClInclude Include="Lis.h" />
     <ClInclude Include="Mlecz.h" />
     <ClInclude Include="Organizm.h" />
